@@ -1,5 +1,5 @@
 
--  📫 Reach me at andrpham@gmail.com
+📫 Reach me at andrpham@gmail.com
 
 <!---
 andrewphm/andrewphm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
