@@ -1,6 +1,4 @@
--  👋 Hi, I’m @andrewphm
--  👀 I’m interested in full stack web development! 
--  🌱 I’m currently learning frontend web development.
+
 -  📫 Reach me at andrpham@gmail.com
 
 <!---
