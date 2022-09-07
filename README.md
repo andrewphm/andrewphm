@@ -1,8 +1,5 @@
 
 👋  Hi there, I'm Andrew.
-I'm a full-stack developer with a passion in web fundamentals. Currently I'm focused on building feature rich, beautiful projects.
-
-
 📫  Reach me at andrpham@gmail.com
 
 <img src="https://i.imgur.com/eOgFPpy.jpeg" alt="happy dog on computer" height="350px" width="530px" />
