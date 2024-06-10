@@ -1,5 +1,5 @@
 
-👋  Hi there, I'm Andrew.
+👋  Hi there, I'm Andrew - a software dev @ Shopify.
 📫  Reach me at andrpham@gmail.com
 
 <img src="https://i.imgur.com/eOgFPpy.jpeg" alt="happy dog on computer" height="350px" width="530px" />
