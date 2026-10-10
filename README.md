@@ -1,9 +1,7 @@
 
 👋  Hi there, I'm Andrew.
-📫  Reach me at andrpham@gmail.com
-
 <img src="https://i.imgur.com/eOgFPpy.jpeg" alt="happy dog on computer" height="350px" width="530px" />
-
+https://andrewpham.ca
 
 
 <!---
